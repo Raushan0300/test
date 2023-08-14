@@ -1,5 +1,0 @@
-{{#user}
-Name: Raushan Kumar
-Skills: HTML, CSS, JS, Next.js
-Email: raushankumar2909@gmail.com
-{{/user}}
